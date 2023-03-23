@@ -1,0 +1,48 @@
+html {
+    font-size: 17px;
+}
+
+body {
+    font-family: Roboto;
+    text-align: center;
+    background-color: rosybrown;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+    padding: 50px 50px 25px;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav a {
+    margin: 0px 50px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-size: 20px;
+    margin: 12px 0px;
+}
+
+i {
+    font-size: 40px;
+    color: black;
+}
+
+article p {
+    margin: 12px 0px;
+}
